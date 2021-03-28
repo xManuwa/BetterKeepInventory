@@ -1,8 +1,7 @@
 # Better KeepInventory
  
-This is a Datapack I wrote for Minecraft Survival. If you die, you get slowness II and loose 10 levels.
+This is a Datapack I wrote for Minecraft Survival. If you die, you get slowness II for 1 minute and loose 10 levels.
 This makes it more balanced than just dying without loosing anything. Now you have to care about dying again. What a pity.
-
 ## How to install?
 
 Glad you ask!
@@ -13,4 +12,4 @@ Glad you ask!
 4. That's all! Now you can start up your world or just type /reload in chat.
 
 ### Multiplayer?
-Yes, this does work on Multiplayer.
+It still has to be tested but I assume that it works.
